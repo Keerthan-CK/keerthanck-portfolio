@@ -1193,7 +1193,8 @@ form .btn2 {
   .logo {
     width: 260px;
     top: 20px;
-    left: 40px;
+    left: 50px;
+    margin-left: 1px;
   }
 
   .header-text h1 {
@@ -1288,7 +1289,8 @@ form .btn2 {
 nav .fa-solid {
   display: block;
   font-size: 25px;
-  margin-top: 18px;
+  margin-left: 300px;
+  margin-top: -42px;
   color: #38ef7d;
   cursor: pointer;
   text-shadow: 0 0 6px rgba(56, 239, 125, 0.5);

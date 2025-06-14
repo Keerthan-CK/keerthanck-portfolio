@@ -47,7 +47,7 @@ Feel free to reach out to me via the contact form on the website or:
 
 🔐 License
 
-This project is licensed under the MIT License.  
+This project is licensed under the AIT License.  
 Feel free to fork, use, and modify it for personal or professional use.
 
 
