@@ -1177,11 +1177,11 @@ form .btn2 {
 @media only screen and (max-width: 600px) {
 
   #header {
-    background-image: url('../images/b2.webp');
+    background-image: url('../images/mw1.webp');
 }
 
   #docs-header {
-    background-image: url('../images/b1.webp');
+    background-image: url('../images/mw2.webp');
     background-attachment: scroll;
     display: flex;
     flex-direction: column;
@@ -1224,7 +1224,7 @@ form .btn2 {
     padding-left: 40px;
     color: #fff;
     text-shadow: 0 0 5px #38ef7d, 0 0 10px rgba(56, 239, 125, 0.3);
-    margin-top: 100%;
+    margin-top: 40%;
     font-size: 18px;
   }
  
