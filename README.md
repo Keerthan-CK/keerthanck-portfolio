@@ -22,11 +22,6 @@ Welcome to my personal portfolio website — a showcase of my projects, technica
 
 ---
 
-## 📁 Project Structure
-*(Add your folder structure here if you want to show it visually)*
-
----
-
 ## 🛠️ Tech Stack
 
 - 🌐 **HTML5**
@@ -41,13 +36,16 @@ Welcome to my personal portfolio website — a showcase of my projects, technica
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/screenshot1.webp" alt="Screenshot 1" width="600">
+  <img src="images/screenshot1.webp" alt="Screenshot 1" width="720">
 </p>
 
 <p align="center">
-  <img src="images/screenshot2.webp" alt="Screenshot 2" width="600">
+  <img src="images/screenshot2.webp" alt="Screenshot 2" width="720">
 </p>
 
+<p align="center">
+  <img src="images/screenshot3.png" alt="Screenshot 3" width="720">
+</p>
 ---
 
 ## 📬 Contact
