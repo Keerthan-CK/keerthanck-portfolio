@@ -36,16 +36,17 @@ Welcome to my personal portfolio website — a showcase of my projects, technica
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/screenshot1.webp" alt="Screenshot 1" width="720">
+  <img src="images/screenshot1.webp" alt="Screenshot 1" width="750">
 </p>
 
 <p align="center">
-  <img src="images/screenshot2.webp" alt="Screenshot 2" width="720">
+  <img src="images/screenshot2.webp" alt="Screenshot 2" width="750">
 </p>
 
 <p align="center">
-  <img src="images/screenshot3.png" alt="Screenshot 3" width="720">
+  <img src="images/screenshot3.png" alt="Screenshot 3" width="750">
 </p>
+
 ---
 
 ## 📬 Contact
